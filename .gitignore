@@ -1,3 +1,7 @@
+# Other
+*.swp
+.idea/
+env.sh
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
